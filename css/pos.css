@@ -4,3 +4,85 @@ div {
     margin: 1em 0 1em 4em;
     width: 300px;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h0 {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+}
+
+h2 {
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-size: 15px;
+}
+
+p {
+    font-size: 16px;
+}
+
+#cabecera {
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+}
+
+#contenedor {
+    margin: 0px;
+    background-color: rgb(202, 40, 40);
+    width: 4500px;
+}
+
+#contenido1 {
+    margin: 250px;
+    margin-top: 20px;
+    background-color: rgb(255, 255, 255);
+    padding-top: 50px;
+    float: left;
+    height: 750px;
+    padding: 10px;
+    width: 555px;
+    border-style: dashed;
+    border-width: 4px;
+    border-color: gray;
+    border-top: 0px;
+}
+
+#contenido2 {
+    margin: 5px;
+    background-color: rgb(78, 78, 78);
+    width: 250px;
+    text-justify: auto;
+    padding: 5px;
+}
+
+#contenido3 {
+    margin: 5px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    text-justify: auto;
+    padding: 5px;
+    border-color: black;
+    border-radius: 5px;
+}
+
+#divimg {
+    position: absolute;
+    top: 70px;
+    left: 550px;
+}
+
+#divimg2 {
+    position: absolute;
+    top: 435px;
+    left: 550px;
+}
